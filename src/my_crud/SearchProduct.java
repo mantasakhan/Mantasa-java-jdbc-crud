@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Scanner;
 
-public class SearchProduct1 {
+public class SearchProduct {
 
 	public static void main(String[] args) {
 		
